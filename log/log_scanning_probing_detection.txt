@@ -1,0 +1,148 @@
+------------------------------
+Analysis of file pcap_files/scanning1.pcap
+------------------------------
+Target IP: 192.168.2.26
+Width for probing: 3 seconds
+Minimum number of packets in a probing: 4
+Width for scanning: 10 port IDs
+Minimum number of packets in a scanning: 4
+
+Reports of probing with TCP:
+>Probing from 192.168.2.240 to Port 22 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 55900 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 57572 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 50684 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 47030 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 22 - Total attempts: 6
+>Probing from 192.168.2.240 to Port 22 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41016 - Total attempts: 4
+
+Reports of probing with UDP:
+No reports found.
+
+Reports of scanning with TCP:
+>Scanning from 192.168.2.240 - Total attempts: 21
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+>Scanning from 192.168.2.240 - Total attempts: 4
+
+Reports of scanning with UDP:
+No reports found.
+
+------------------------------
+Analysis of file pcap_files/scanning2.pcap
+------------------------------
+Target IP: 192.168.2.26
+Width for probing: 3 seconds
+Minimum number of packets in a probing: 4
+Width for scanning: 10 port IDs
+Minimum number of packets in a scanning: 4
+
+Reports of probing with TCP:
+No reports found.
+
+Reports of probing with UDP:
+No reports found.
+
+Reports of scanning with TCP:
+No reports found.
+
+Reports of scanning with UDP:
+No reports found.
+
+------------------------------
+Analysis of file pcap_files/probing1.pcap
+------------------------------
+Target IP: 192.168.2.26
+Width for probing: 3 seconds
+Minimum number of packets in a probing: 4
+Width for scanning: 10 port IDs
+Minimum number of packets in a scanning: 4
+
+Reports of probing with TCP:
+>Probing from 192.168.2.240 to Port 58014 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 58016 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 58018 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 58020 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 58022 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 58024 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 58026 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 58028 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 58030 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 58032 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52640 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52642 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52644 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52646 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52648 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52650 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52652 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52654 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52656 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 52658 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48130 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48132 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48134 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48136 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48138 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48140 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48142 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48144 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48146 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 48148 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41230 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41232 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41234 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41236 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41238 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41240 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41242 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41244 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41246 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 41248 - Total attempts: 4
+>Probing from 192.168.2.240 to Port 22 - Total attempts: 6
+
+Reports of probing with UDP:
+No reports found.
+
+Reports of scanning with TCP:
+>Scanning from 192.168.2.240 - Total attempts: 8
+>Scanning from 192.168.2.240 - Total attempts: 40
+>Scanning from 192.168.2.240 - Total attempts: 40
+>Scanning from 192.168.2.240 - Total attempts: 40
+>Scanning from 192.168.2.240 - Total attempts: 40
+
+Reports of scanning with UDP:
+No reports found.
+
+------------------------------
+Analysis of file pcap_files/probing2.pcap
+------------------------------
+Target IP: 192.168.2.26
+Width for probing: 3 seconds
+Minimum number of packets in a probing: 4
+Width for scanning: 10 port IDs
+Minimum number of packets in a scanning: 4
+
+Reports of probing with TCP:
+No reports found.
+
+Reports of probing with UDP:
+No reports found.
+
+Reports of scanning with TCP:
+No reports found.
+
+Reports of scanning with UDP:
+No reports found.
+
